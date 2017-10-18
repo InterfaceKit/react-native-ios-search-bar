@@ -1,0 +1,15 @@
+{
+  "name": "react-native-ios-search-bar",
+  "version": "1.0.0",
+  "description": "UISearchBar React Native component for iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react-native"],
+  "author": "Alvaro Medina Ballester <amedina@apsl.net>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  }
+}
