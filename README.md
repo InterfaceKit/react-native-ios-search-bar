@@ -1,5 +1,16 @@
 
-# react-native-react-native-ios-search-bar
+# react-native-ios-search-bar
+
+<p>
+<img src="https://img.shields.io/npm/dm/react-native-ios-search-bar.svg" />
+<img src="https://img.shields.io/npm/dt/react-native-ios-search-bar.svg" />
+</p>
+
+Native UISearchBar component for React Native.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/wiki/APSL/react-native-ios-search-bar/scr.png" alt="Search bar" width="400">
+</p>
 
 ## Getting started
 
