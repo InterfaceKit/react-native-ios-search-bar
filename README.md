@@ -9,7 +9,7 @@
 Native UISearchBar component for React Native.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/wiki/APSL/react-native-ios-search-bar/scr.png" alt="Search bar" width="400">
+<img src="https://raw.githubusercontent.com/wiki/InterfaceKit/react-native-ios-search-bar/scr.png" alt="Search bar" width="400">
 </p>
 
 ## Getting started
