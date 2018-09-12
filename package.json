@@ -6,10 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["react-native"],
+  "keywords": [
+    "react-native"
+  ],
   "author": "Alvaro Medina Ballester <amedina@apsl.net>",
-  "license": "MIT",
-  "peerDependencies": {
-    "react-native": ">=0.41.2"
-  }
+  "license": "MIT"
 }
